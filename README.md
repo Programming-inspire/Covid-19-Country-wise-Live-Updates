@@ -7,4 +7,13 @@ We will track total cases, active cases, totally recovered cases, and total deat
 
 ## How to run?
 
-1. Download this repository. Open the cmd, to run -> 
+1. Download this repository. Open the cmd, to run -> `git clone https://github.com/Programming-inspire/Covid-19-Country-wise-Live-Updates.git`
+2. Navigate to folder, to run this command -> `npm install`
+3. Next -> `npm run dev`
+4. Open the browser to run -> `localhost:4000`
+
+
+## Screenshot
+
+ ![corona_details](https://user-images.githubusercontent.com/67471717/117022899-3f6e2180-ad16-11eb-83a8-2e30ff3c3e35.PNG)
+
